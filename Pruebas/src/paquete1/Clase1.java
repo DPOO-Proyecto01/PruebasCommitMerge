@@ -12,5 +12,9 @@ public class Clase1
 		}
 		return suma;
 	}
+	public String metodoX(String s)
+	{
+		return s;
+	}
 
 }
